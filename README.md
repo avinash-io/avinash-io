@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in anime, Kpop, manga.
 - 🌱 I’m currently learning nodeJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me 
 -  var socials = { likendin: https://www.linkedin.com/in/avinash-io/ }
 
