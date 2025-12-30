@@ -1,5 +1,8 @@
+[![MasterHead](Resource/image/banner.jpg)](https://github.com/avinash-io/avinash-io)
+
 ## Hi there 👋
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00)
 <!--
 **avinash-io/avinash-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
