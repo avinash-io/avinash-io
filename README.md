@@ -1,25 +1,33 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/avinash-io/avinash-io">
-        <img src="Resource/image/banner.jpg" alt="Banner 1" height="370">
+      <a href="https://github.com/avinash-io">
+        <img src="Resource/image/banner.jpg" alt="Banner" height="280">
       </a>
     </td>
     <td>
-      <a href="https://github.com/avinash-io/avinash-io">
-        <img src="Resource/image/maneki-neko-cat-neon-sign_1262-19569.avif"
-             alt="Banner 2"
-             height="370">
-      </a>
+      <img
+        src="Resource/image/maneki-neko-cat-neon-sign_1262-19569.avif"
+        alt="Maneki Neko"
+        height="280"
+      />
     </td>
   </tr>
 </table>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+<h1 align="center">Hi there, I'm Avinash 👋</h1>
 
-- 💬 Ask me about **Java, Docker, Jboss/ Tomcat Support...or anything [here](https://github.com/avinash-io/avinash-io/issues)**
+<h3 align="center">
+Full-Stack Software Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Learner
+</h3>
 
-<br>
+<p align="center">
+Building scalable backend systems and modern web applications.
+</p>
+
+<p align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
+</p>
 
 <div align="center">
   <a href="mailto:avinash.menon.in@gmail.com">
@@ -28,41 +36,103 @@
   <a href="https://linkedin.com/in/avinash-io/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
 </div>
 
-## 🛠️ Languages and Tools
+---
 
-<br>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,postgres,bash" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,idea,vscode,docker,aws," />
-</p>
+- 💼 Full-Stack Software Engineer with experience in application support and backend development
+- ☕ Passionate about Java, Spring Boot, and building scalable APIs
+- 🐳 Enjoy containerization and modern DevOps practices with Docker
+- 🚀 Interested in cloud-native applications and distributed systems
+- 🤝 Open to collaboration and learning opportunities
 
-<hr>
+---
 
-## ⚡️ Stats
+## 🚀 Currently
 
-<br>
+- 🔭 Building Spring Boot applications
+- 🌱 Learning Kubernetes and System Design
+- 🐳 Exploring containerized and cloud-native architectures
+- 📚 Practicing Java 17+, DSA, and backend engineering concepts
+
+---
+
+## 💬 Ask Me About
 
 <table>
   <tr>
-    <td align="center">
-      <img
-        width="390"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&count_private=true&border_radius=10&locale=en"
-        alt="Avinash's GitHub Streak"
-      />
-    </td>
-    <td align="center">
-      <img
-        height="370"
-        src="Resource/image/9caf57a35a5f702a92621f7f0aca8e4d.gif"
-        alt="patrick GIF"
-      />
-    </td>
-  </tr>
+    <td>
+
+- Java
+- Spring Boot
+- Docker
+- JBoss / Tomcat
+- Production Support
+- Backend Development
+
+💬 Ask anything
+<a href="https://github.com/avinash-io/avinash-io/issues">here</a>
+
+</td>
+<td>
+<img
+  height="180"
+  src="Resource/image/images.jpg"
+  alt="Lloyd face"
+/>
+</td>
+</tr>
 </table>
 
-<hr>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,postgres,bash" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,idea,vscode,docker,aws" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&border_radius=10"
+    alt="GitHub Streak"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=avinash-io&show_icons=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-io&layout=compact&theme=transparent&hide=css,html"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🎮 Fun Corner
+
+<p align="center">
+  <img
+    height="260"
+    src="Resource/image/9caf57a35a5f702a92621f7f0aca8e4d.gif"
+    alt="Patrick GIF"
+  />
+</p>
