@@ -104,25 +104,10 @@ Building scalable backend systems and modern web applications.
   <img
     width="48%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&border_radius=10"
-    alt="GitHub Streak"
-  />
+    alt="GitHub Streak"/>
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=avinash-io&show_icons=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-io&layout=compact&theme=transparent&hide=css,html"
-    alt="Top Languages"
-  />
+    src="https://github-readme-stats.vercel.app/api?username=avinash-io&show_icons=true&theme=transparent" alt="GitHub Stats"/>
 </p>
 
 ---
