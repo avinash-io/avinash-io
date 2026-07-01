@@ -36,6 +36,9 @@ Building scalable backend systems and modern web applications.
   <a href="https://linkedin.com/in/avinash-io/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+<a href="https://linkedin.com/in/avinash-io/">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+</a>
 </div>
 
 ---
@@ -105,9 +108,6 @@ Building scalable backend systems and modern web applications.
     width="48%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&border_radius=10"
     alt="GitHub Streak"/>
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=avinash-io&show_icons=true&theme=transparent" alt="GitHub Stats"/>
 </p>
 
 ---
