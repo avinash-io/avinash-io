@@ -46,8 +46,23 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Avinash's" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        width="390"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&count_private=true&border_radius=10&locale=en"
+        alt="Avinash's GitHub Streak"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="370"
+        src="Resource/image/9caf57a35a5f702a92621f7f0aca8e4d.gif"
+        alt="patrick GIF"
+      />
+    </td>
+  </tr>
+</table>
 
 <hr>
