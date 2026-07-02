@@ -2,23 +2,16 @@
   <tr>
     <td>
       <a href="https://github.com/avinash-io">
-        <img src="Resource/image/banner.jpg" alt="Banner" height="280">
+        <img src="Resource/image/banner.jpg" alt="Banner">
       </a>
-    </td>
-    <td>
-      <img
-        src="Resource/image/maneki-neko-cat-neon-sign_1262-19569.avif"
-        alt="Maneki Neko"
-        height="280"
-      />
     </td>
   </tr>
 </table>
 
-<h1 align="center">Hi there, I'm Avinash 👋</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI.&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=3.....2.....1;Hello;+I'm+Avinash+Menon;........................" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">
-Full-Stack Software Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Learner
+Full-Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Learner
 </h3>
 
 <p align="center">
@@ -45,7 +38,7 @@ Building scalable backend systems and modern web applications.
 
 ## 👨‍💻 About Me
 
-- 💼 Full-Stack Software Engineer with experience in application support and backend development
+- 💼 Application Support Engineer with experience backend development
 - ☕ Passionate about Java, Spring Boot, and building scalable APIs
 - 🐳 Enjoy containerization and modern DevOps practices with Docker
 - 🚀 Interested in cloud-native applications and distributed systems
@@ -55,7 +48,7 @@ Building scalable backend systems and modern web applications.
 
 ## 🚀 Currently
 
-- 🔭 Building Spring Boot applications
+- 🔭 Building java / Spring Boot applications
 - 🌱 Learning Kubernetes and System Design
 - 🐳 Exploring containerized and cloud-native architectures
 - 📚 Practicing Java 17+, DSA, and backend engineering concepts
@@ -111,13 +104,3 @@ Building scalable backend systems and modern web applications.
 </p>
 
 ---
-
-## 🎮 Fun Corner
-
-<p align="center">
-  <img
-    height="260"
-    src="Resource/image/9caf57a35a5f702a92621f7f0aca8e4d.gif"
-    alt="Patrick GIF"
-  />
-</p>
