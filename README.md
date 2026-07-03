@@ -37,7 +37,7 @@ Building scalable backend systems and modern web applications.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8" alt="Typing SVG" /></a>
 
 - 💼 Application Support Engineer with experience backend development
 - ☕ Passionate about Java, Spring Boot, and building scalable APIs
