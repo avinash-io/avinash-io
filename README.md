@@ -36,8 +36,8 @@ Building scalable backend systems and modern web applications.
 </div>
 
 ---
-
-## 👨‍💻 About Me <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=435&lines=%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8" alt="Typing SVG" /></a>
+## 👨‍💻 About Me 
 
 - 💼 Application Support Engineer with experience backend development
 - ☕ Passionate about Java, Spring Boot, and building scalable APIs
@@ -73,13 +73,6 @@ Building scalable backend systems and modern web applications.
 <a href="https://github.com/avinash-io/avinash-io/issues">here</a>
 
 </td>
-<td>
-<img
-  height="180"
-  src="Resource/image/images.jpg"
-  alt="Lloyd face"
-/>
-</td>
 </tr>
 </table>
 
@@ -100,7 +93,7 @@ Building scalable backend systems and modern web applications.
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-io&theme=transparent&border_radius=10"
+    src="https://streak-stats.demolab.com?user=avinash-io&theme=radical&border_radius=10"
     alt="GitHub Streak"/>
 </p>
 
