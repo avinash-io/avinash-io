@@ -36,7 +36,6 @@ Building scalable backend systems and modern web applications.
 </div>
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=435&lines=%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8%F0%9F%8C%B8" alt="Typing SVG" /></a>
 ## 👨‍💻 About Me 
 
 - 💼 Application Support Engineer with experience backend development
