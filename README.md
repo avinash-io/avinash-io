@@ -10,10 +10,6 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 </h3>
 
 <p align="center">
-Building scalable backend systems and modern web applications.
-</p>
-
-<p align="center">
   <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
 </p>
 
@@ -32,11 +28,23 @@ Building scalable backend systems and modern web applications.
 ---
 ## 👨‍💻 About Me 
 
-- 💼 Application Support Engineer with experience backend development
-- ☕ Passionate about Java, Spring Boot, and building scalable APIs
-- 🐳 Enjoy containerization and modern DevOps practices with Docker
-- 🚀 Interested in cloud-native applications and distributed systems
-- 🤝 Open to collaboration and learning opportunities
+<table border="0">
+  <tr>
+    <td width="60%" valign="middle">
+      <ul style="margin-bottom: 0; padding-bottom: 0;">
+        <li>💼 Application Support Engineer with experience backend development</li>
+        <li>☕ Passionate about Java, Spring Boot, and building scalable APIs</li>
+        <li>🐳 Enjoy containerization and modern DevOps practices with Docker</li>
+        <li>🚀 Interested in cloud-native applications and distributed systems</li>
+        <li>🤝 Open to collaboration and learning opportunities</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="right">
+      <img src="Resource/image/coffee.jpg" width="300" alt="About Me Illustration" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
