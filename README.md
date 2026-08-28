@@ -2,8 +2,7 @@
 <img src="Resource/image/banner2.png" alt="banner" style="border-radius: 25px;">
 </div>
 
-
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI.&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=3.....2.....1;Hello;+I'm+Avinash+Menon;........................" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI.&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello;+I'm+Avinash+Menon;........................" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">
 Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Learner
@@ -26,7 +25,8 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 </div>
 
 ---
-## 👨‍💻 About Me 
+
+## 👨‍💻 About Me
 
 <table border="0">
   <tr>
@@ -40,20 +40,30 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
       </ul>
     </td>
     <td width="40%" valign="middle" align="right">
-      <img src="Resource/image/coffee.jpg" width="300" alt="About Me Illustration" />
+      <img src="Resource/image/coffee.jpg" width="300" style="border-radius: 25px;" alt="About Me Illustration" />
     </td>
   </tr>
 </table>
-
 
 ---
 
 ## 🚀 Currently
 
-- 🔭 Building java / Spring Boot applications
-- 🌱 Learning Kubernetes and System Design
-- 🐳 Exploring containerized and cloud-native architectures
-- 📚 Practicing Java 17+, DSA, and backend engineering concepts
+<table border="0">
+  <tr>
+    <td width="40%" valign="middle" align="right">
+      <img src="Resource/image/computer.png" width="300" style="border-radius: 25px;" alt="Currently Illustration" />
+    </td>
+    <td width="60%" valign="middle">
+      <ul style="margin-bottom: 0; padding-bottom: 0;">
+        <li>🔭 Building Java / Spring Boot applications</li>
+        <li>🌱 Learning Kubernetes and System Design</li>
+        <li>🐳 Exploring containerized and cloud-native architectures</li>
+        <li>📚 Practicing Java 17+, DSA, and backend engineering concepts</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,12 +101,19 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-  <img
-    width="47%"
-    src="https://github-stats-extended.vercel.app/api?username=avinash-io&theme=radical"
-    alt="GitHub Stats"
-  />
-</p>
+<table>
+  <tr align="center">
+    <td>
+      <img width="47%"
+      src="https://github-stats-extended.vercel.app/api?username=avinash-io&theme=jolly"
+      alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img width="47%"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=avinash-io&langs_count=4&theme=jolly"
+        alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
