@@ -94,11 +94,6 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 <p align="center">
   <img
     width="47%"
-    src="https://streak-stats.demolab.com?user=avinash-io&theme=radical&border_radius=10"
-    alt="GitHub Streak"
-  />
-  <img
-    width="47%"
     src="https://github-stats-extended.vercel.app/api?username=avinash-io&theme=radical"
     alt="GitHub Stats"
   />
