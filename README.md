@@ -104,12 +104,12 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 <table>
   <tr align="center">
     <td>
-      <img width="47%"
+      <img width="80%"
       src="https://github-stats-extended.vercel.app/api?username=avinash-io&theme=jolly"
       alt="GitHub Stats"/>
     </td>
     <td>
-      <img width="47%"
+      <img width="90%"
         src="https://github-stats-extended.vercel.app/api/top-langs?username=avinash-io&langs_count=4&theme=jolly"
         alt="GitHub Stats"/>
     </td>
