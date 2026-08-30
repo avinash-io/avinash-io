@@ -4,9 +4,7 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI.&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello;+I'm+Avinash+Menon;........................" alt="Typing SVG" /></a></h1>
 
-<h3 align="center">
-Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Learner
-</h3>
+<h3 align="center">Application Support | Java & Cloud</h3>
 
 <p align="center">
   <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
@@ -26,28 +24,34 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 
 ---
 
-## 👨‍💻 About Me
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1000&pause=200&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="Typing SVG" />
+</a>
 
-<table border="0">
+<!-- Profile Content Layout -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="middle">
-      <ul style="margin-bottom: 0; padding-bottom: 0;">
-        <li>💼 Application Support Engineer with experience backend development</li>
+    <!-- Left Column: About Me List (65% width to prevent text squishing) -->
+    <td width="65%" valign="top">
+      <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0; padding-bottom: 0;">
+        <li>💼 Application Support Engineer | FinTech and Media Analytics </li>
         <li>☕ Passionate about Java, Spring Boot, and building scalable APIs</li>
         <li>🐳 Enjoy containerization and modern DevOps practices with Docker</li>
         <li>🚀 Interested in cloud-native applications and distributed systems</li>
         <li>🤝 Open to collaboration and learning opportunities</li>
       </ul>
     </td>
-    <td width="40%" valign="middle" align="right">
-      <img src="Resource/image/coffee.jpg" width="300" style="border-radius: 25px;" alt="About Me Illustration" />
+    <!-- Right Column: Profile Image (35% width with custom padding) -->
+    <td width="35%" valign="top" align="right" style="padding-left: 15px;">
+      <img src="Resource/image/coffee.jpg" width="260" style="border-radius: 25px;" alt="About Me Illustration" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Currently
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1200&pause=250&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%9A%80+Currently)](https://git.io/typing-svg)
 
 <table border="0">
   <tr>
@@ -67,7 +71,7 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 
 ---
 
-## 💬 Ask Me About
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1300&pause=275&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%92%AC+Ask+Me+About)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -89,7 +93,7 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 
 ---
 
-## 🛠️ Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1350&pause=300&color=A78CE9&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%9B%A0%EF%B8%8F+Tech+Stack)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,postgres,bash" />
@@ -99,7 +103,7 @@ Application Support Engineer | Java & Spring Boot Enthusiast | Docker & Cloud Le
 
 ---
 
-## ⚡ GitHub Stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1400&pause=350&color=A78CE9&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%E2%9A%A1+GitHub+Stats)](https://git.io/typing-svg)
 
 <table>
   <tr align="center">
