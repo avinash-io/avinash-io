@@ -6,6 +6,8 @@
 
 <h3 align="center">Application Support | Java & Cloud</h3>
 
+---
+
 <p align="center">
   <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
 </p>
@@ -25,9 +27,8 @@
 ---
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1000&pause=200&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="Typing SVG" />
-</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1000&pause=200&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me)](https://github.com/avinash-io)
 
 <!-- Profile Content Layout -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -51,7 +52,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1200&pause=250&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%9A%80+Currently)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1200&pause=250&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%9A%80+Currently)](https://github.com/avinash-io)
 
 <table border="0">
   <tr>
@@ -71,24 +72,12 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1300&pause=275&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%92%AC+Ask+Me+About)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1300&pause=275&color=3DF78C&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%F0%9F%92%AC+Ask+Me+About)](https://github.com/avinash-io)
 
 <table>
   <tr>
-    <td>
-
-- Java
-- Spring Boot
-- Docker
-- JBoss / Tomcat
-- Production Support
-- Backend Development
-
-💬 Ask anything
-<a href="https://github.com/avinash-io/avinash-io/issues">here</a>
-
-</td>
-</tr>
+    💬 Ask anything <a href="https://github.com/avinash-io/avinash-io/issues">here</a>
+  </tr>
 </table>
 
 ---
@@ -103,7 +92,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1400&pause=350&color=A78CE9&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%E2%9A%A1+GitHub+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1400&pause=350&color=A78CE9&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%E2%9A%A1+GitHub+Stats)](https://github.com/avinash-io)
 
 <table>
   <tr align="center">
