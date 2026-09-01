@@ -95,6 +95,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1400&pause=350&color=A78CE9&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%E2%9A%A1+GitHub+Stats)](https://github.com/avinash-io)
 
 <table>
+  <tr align="center"> 
+    <td>
+      <img width="100%" src="https://streak-stats.demolab.com?user=avinash-io&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
   <tr align="center">
     <td>
       <img width="80%"
@@ -104,7 +109,7 @@
     <td>
       <img width="90%"
         src="https://github-stats-extended.vercel.app/api/top-langs?username=avinash-io&langs_count=4&theme=jolly"
-        alt="GitHub Stats"/>
+        alt="Most language used"/>
     </td>
   </tr>
 </table>
