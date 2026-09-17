@@ -1,12 +1,8 @@
 <div align="center">
-<img src="Resource/image/banner.png" alt="banner" style="border-radius: 25px;">
+<img src="Resource/image/banner.gif" alt="banner" style="border-radius: 25px;">
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
-</p>
 
 <div align="center">
   <a href="mailto:avinash.menon.in@gmail.com">
@@ -87,5 +83,9 @@
     </td>
   </tr>
 </table>
+
+<p align="left">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=avinash-io.avinash-io&color=00cf00" alt="Visitors" />
+</p>
 
 ---
